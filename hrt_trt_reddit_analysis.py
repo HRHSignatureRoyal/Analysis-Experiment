@@ -1,5 +1,5 @@
 # =====================================================================
-# HRT / TRT Telehealth Voice-of-Customer Reddit Scraper (Colab)
+# HRT / TRT Telehealth VoC Reddit Analysis (Colab)
 # =====================================================================
 # CELL 1 — run this line alone in its own Colab cell first:
 #
